@@ -33,4 +33,4 @@
    
 </div><br/>
 
-#### Quando você começa a programar percebe que não há atalhos, você tem que ousar sujar as mãos. Um pequeno código nos dedos, o computador é como uma criança que não sabe nada, eu tenho que ensiná-la. E o que eu digo significa tudo, se minhas instruções forem ilógicas, incompletas ou inadequadas, ganhará um bug e o bug pode fazer com que o programe falhe.
+#### Quando você começa a programar percebe que não há atalhos, você tem que ousar sujar as mãos. Um pequeno código nos dedos, o computador é como uma criança que não sabe nada, eu tenho que ensiná-la. E o que eu digo significa tudo, se minhas instruções forem ilógicas, incompletas ou inadequadas, ganhará um bug e o bug poderá fazer com que o programe falhe.
