@@ -6,7 +6,7 @@
 
 ![João GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaocarloshespanhol&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarloshespanhol)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaocarloshespanhol)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que já trabalhei
 
