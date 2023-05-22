@@ -1,6 +1,6 @@
 ### Olá eu sou o João Carlos 👋
 
-[![Blog](https://img.shields.io/website?label=Portfólio2.0&style=for-the=badge&url=https://portfolio2-0-black.vercel.app/)](https://portfolio2-0-black.vercel.app/)
+[![Blog](https://img.shields.io/website?label=Portfólio2.0&style=for-the=badge&url=https://jcportfolio2.vercel.app//)](https://jcportfolio2.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarloshespanhol/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jc.sites/)
 
