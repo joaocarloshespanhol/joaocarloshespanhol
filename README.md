@@ -4,10 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarloshespanhol/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jc.desenvolvedor/)
 
-![João GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaocarloshespanhol&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaocarloshespanhol)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que já trabalhei.
 
 <div style="display: inline_block"><br/>
